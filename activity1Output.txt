@@ -1,0 +1,30 @@
+>> activity1
+1.Deposit
+2.Withdraw
+3.Balance inquiry
+4.Exit
+Enter your choice number: 1
+Enter your deposite amount: 560
+
+ Your new balance: 1560.00
+1.Deposit
+2.Withdraw
+3.Balance inquiry
+4.Exit
+Enter your choice number: 2
+Enter your withdraw amount: 85
+
+ Your new balance: 1475.00
+1.Deposit
+2.Withdraw
+3.Balance inquiry
+4.Exit
+Enter your choice number: 3
+
+ Your new balance: 1475.00
+1.Deposit
+2.Withdraw
+3.Balance inquiry
+4.Exit
+Enter your choice number: 4
+Thank you for using the ATM.>> 

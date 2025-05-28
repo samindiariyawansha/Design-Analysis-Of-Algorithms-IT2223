@@ -1,0 +1,144 @@
+>> activity3
+Enter the total number of voters: 15
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 1, enter your choice: 1
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 2, enter your choice: 1
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 3, enter your choice: 2
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 4, enter your choice: 5
+Invalid vote! Not counted.
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 5, enter your choice: 3
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 6, enter your choice: 3
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 7, enter your choice: 4
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 8, enter your choice: 1
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 9, enter your choice: 2
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 10, enter your choice: 2
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 11, enter your choice: 1
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 12, enter your choice: 3
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 13, enter your choice: 4
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 14, enter your choice: 1
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 15, enter your choice: 2
+
+Voting Results:
+Candidate A: 5 votes
+Candidate B: 4 votes
+Candidate C: 3 votes
+Candidate D: 2 votes
+Winner: Candidate A
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (creative visualization)
+4. Exit
+Enter your choice: 1
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (creative visualization)
+4. Exit
+Enter your choice: 2
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (creative visualization)
+4. Exit
+Enter your choice: 3
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (creative visualization)
+4. Exit
+Enter your choice: 4
+Thank you for participating in the election!

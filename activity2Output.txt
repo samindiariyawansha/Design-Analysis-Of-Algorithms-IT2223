@@ -1,0 +1,31 @@
+>> activity2
+Enter marks for Student 1: 85
+Grade: B
+Enter marks for Student 2: 78
+Grade: C
+Enter marks for Student 3: 98
+Grade: A
+Enter marks for Student 4: 65
+Grade: D
+Enter marks for Student 5: 82
+Grade: B
+
+Menu:
+1. Show all marks as a bar chart
+2. Show average marks
+3. Exit
+Enter your choice: 1
+
+Menu:
+1. Show all marks as a bar chart
+2. Show average marks
+3. Exit
+Enter your choice: 2
+Average Marks: 81.60
+
+Menu:
+1. Show all marks as a bar chart
+2. Show average marks
+3. Exit
+Enter your choice: 3
+Thank you for using the program!
