@@ -1,0 +1,107 @@
+(01)
+n=10;
+
+tic; %start timing
+
+for i=1:n
+    disp(i);
+end
+
+elapsedTime=toc; %end timing and store elapsed time
+
+fprintf('Elapsed Time: %f seconds\n',elapsedTime); %f--> floating points
+
+output:
+
+>> timeCompexity
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+     6
+
+     7
+
+     8
+
+     9
+
+    10
+
+Elapsed Time: 0.021698 seconds
+
+(02)
+n=5;
+tic;
+if n==5
+    disp('n is 5');
+else
+    disp('n is not 5');
+end
+toc;
+
+
+output:
+
+>> timeCompexity2
+n is 5
+Elapsed time is 0.000481 seconds.
+
+(03)linear search in array
+% in matlab index start from 1 not 0.
+
+a=[3,5,7,9,11,13];
+index=9;
+found=false;
+
+for i=1:length(a)
+    if a(i)==index
+        found=true;
+        index=i;
+        break;
+    end
+end
+
+    if found
+        fprintf('found at index:%d\n',index);
+    else
+        fprintf('not found!');
+    end
+	
+output:
+>> lineraSearch
+found at index:4
+
+(04)
+
+a=[3,5,7,9,11,13];
+index=9;
+found=false;
+tic;
+for i=1:length(a)
+    if a(i)==index
+        found=true;
+        index=i;
+        break;
+    end
+end
+
+    if found
+        fprintf('found at index:%d\n',index);
+    else
+        fprintf('not found!');
+    end
+
+    toc;
+	
+output:
+
+>> linearSearch
+found at index:4
+Elapsed time is 0.001681 seconds.
